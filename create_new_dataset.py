@@ -2,7 +2,7 @@ import os
 import numpy as np
 
 from data_management.data_loader import DataLoader
-from new_dataset.normalize_dataset import NormalizeDataset
+from normalize_dataset.normalize_dataset import NormalizeDataset
 
 base_path = "C:/Users/Camilo Guillen/Documents/Universidad de los Andes/Tesis/Datasets/houston/UH Dataset/"
 data_folder = 'kin_data'
